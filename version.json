@@ -1,16 +1,17 @@
 {
-  "version": "1.0.2",
-  "latest_version": "1.0.2",
-  "release_date": "2026-10-22",
-  "title": "Vortex Download Manager v1.0.2",
-  "download_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/download/v1.0.2/VortexDownloader_v1.0.2_Setup.exe",
+  "version": "1.0.3",
+  "latest_version": "1.0.3",
+  "release_date": "2026-10-23",
+  "title": "Vortex Download Manager v1.0.3",
+  "download_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/download/v1.0.3/VortexDownloader_v1.0.3_Setup.exe",
   "page_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/latest",
   "changelog": [
-    "Added In-App Support & Bug Reporting button in Settings for direct user feedback and license queries",
-    "Added automated system diagnostics pre-fill for fast technical support via VDM.BREADBOARD@proton.me",
-    "Added 1-Year Promotional / Giveaway License support for WinningPC and Giveaway of the Day",
-    "Enhanced Software Updates checking with secure public release feed scanning",
-    "Performance improvements and UI polish"
+    "Official Mozilla Firefox Add-on Integration released on addons.mozilla.org (AMO)",
+    "Added 1-click 'Install from Firefox Add-ons' in Browser Integration card and Settings dialog",
+    "Added optional Firefox extension installation during Windows Setup wizard",
+    "24/7 Automated Cloud Licensing Service deployed on Render with instant on-screen key claiming (/claim)",
+    "Automatic HTML license delivery with high-deliverability Gmail SMTP routing & VDM.BREADBOARD@proton.me Reply-To",
+    "Full backward-compatible support for in-app software updates and giveaway licenses"
   ],
   "mandatory": false
 }
