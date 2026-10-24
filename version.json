@@ -1,17 +1,17 @@
 {
-  "version": "1.0.4",
-  "latest_version": "1.0.4",
-  "release_date": "2026-10-23",
-  "title": "Vortex Download Manager v1.0.4",
-  "download_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/download/v1.0.4/VortexDownloader_v1.0.4_Setup.exe",
+  "version": "1.0.5",
+  "latest_version": "1.0.5",
+  "release_date": "2026-10-25",
+  "title": "Vortex Download Manager v1.0.5",
+  "download_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/download/v1.0.5/VortexDownloader_v1.0.5_Setup.exe",
   "page_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/latest",
   "changelog": [
-    "High-Performance Download Engine Tuning: Achieved 290+ MB/s throughput with optimized lockless chunk streaming",
-    "Zero-Copy Instant File Assembly: Single-segment downloads now finalize instantaneously via zero-copy atomic filesystem moves",
-    "C-Level Cryptographic Hashing: 2.3x faster SHA-256, MD5, and SHA-1 checksum verifications via native C file_digest",
-    "Sub-millisecond Event-Driven Wakeups: Replaced polling sleep loops with immediate event notifications for zero latency file completion",
-    "TCP Window Buffer Scaling: Tuned 8MB socket receive buffers and 2MB send buffers with TCP_NODELAY for multi-gigabit connections",
-    "Stop & Resume Queue Fixes: Fixed Stop action vs Pause behavior and cleared stale resumption journals when re-downloading deleted items"
+    "Clean Vector Icons: Replaced all OS button and header emojis with crisp anti-aliased vector QIcon components (Pause, Resume, Stop, Turbo Lightning, Clock, Heart)",
+    "Eliminated Label Outlines: Scoped card frames and removed cascaded Qt QLabel border outlines across all telemetry metrics and status badges",
+    "Dynamic 16-Sector Download Levels: Enhanced real-time rising sector fill bars from bottom-to-top with compact speed indicators (1.2M, 921K)",
+    "Turbo Color Telemetry: Visualized Turbo Mode workload splits in emerald green-to-amber gradient and standard sockets in vibrant purple",
+    "Instant In-Flight Turbo Toggle: Dynamic mid-stream socket management toggles Turbo helper processes without restarting or stalling active downloads",
+    "Comprehensive Anti-Virus Cleanliness: Embedded PE version resources, signed metadata, and zero third-party script triggers for 100% clean AV analysis"
   ],
   "mandatory": false
 }
