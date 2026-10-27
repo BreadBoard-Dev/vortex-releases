@@ -1,17 +1,17 @@
 {
-  "version": "1.0.6",
-  "latest_version": "1.0.6",
-  "release_date": "2026-10-26",
-  "title": "Vortex Download Manager v1.0.6",
-  "download_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/download/v1.0.6/VortexDownloader_v1.0.6_Setup.exe",
+  "version": "1.0.7",
+  "latest_version": "1.0.7",
+  "release_date": "2026-10-27",
+  "title": "Vortex Download Manager v1.0.7",
+  "download_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/download/v1.0.7/VortexDownloader_v1.0.7_Setup.exe",
   "page_url": "https://github.com/BreadBoard-Dev/vortex-releases/releases/latest",
   "changelog": [
-    "Giveaway License Protection: Online hardware machine-ID binding to prevent duplicate/shared serial piracy",
-    "Real-Time Consumer Registration: Automated email and license pair synchronization via secure Google Apps Script webhook",
-    "GOTD Exclusive Branding: Tailored in-app promotional presentation and license badges dedicated for Giveaway of the Day",
-    "Security & Input Hardening: RFC URL validation, Windows reserved namespace guards (CON, PRN, AUX, NUL), and boundary checks",
-    "High-Performance Native Messaging: Hardened browser native host IPC with memory caps and strict origin validation",
-    "Zero Adware Guarantee: 100% clean verified binary with zero toolbars, bundled components, or third-party telemetry"
+    "Official Microsoft Edge Addon: Seamless native messaging host authorization for approved Edge Store extension (ID: kfllnhgglehalfpfkgfdnclaffhalnnp)",
+    "One-Click Edge Installation: Dedicated in-app Edge Store button with instant registry configuration and verified profile detection",
+    "Installer Integration: Optional post-install setup checkbox to directly add the official Microsoft Edge Addon",
+    "Multi-Profile Browser Detection: Automatic discovery across default and customized profile directories in Edge and Chrome",
+    "Security & Scheme Authorization: Extension origin whitelist validation expanded for Chromium and Edge runtime schemes",
+    "Giveaway License Protection: Online hardware machine-ID binding with duplicate license rejection"
   ],
   "mandatory": false
 }
